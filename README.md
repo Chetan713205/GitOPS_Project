@@ -1,4 +1,4 @@
-# MLOps Project 9: Smart Manufacturing
+# MLOps Project: Smart Manufacturing
 
 ## Overview
 
